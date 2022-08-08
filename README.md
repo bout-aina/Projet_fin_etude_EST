@@ -5,15 +5,15 @@ Réalisation d'un site web et une application mobile pour un cabinet médicale d
 
 Les outils utilsés :
 
-- Installation et configuration des serveurs Apache, PHP et MySQL sous Windows
+Installation et configuration des serveurs Apache, PHP et MySQL sous Windows
 (Soit l'installation manuelle de chaque serveur ou l'installation du serveur WAMP / XAMPP)
 
--Installation de l’ANDROID STUDIO.
+Installation de l’ANDROID STUDIO.
 
--Installation du flutter et sa configuration dans ANDROID.
+Installation du flutter et sa configuration dans ANDROID.
 
--L’installation du COMPOSER.
+L’installation du COMPOSER.
 
--l’installation de LARAVEL.
+l’installation de LARAVEL.
 
 
